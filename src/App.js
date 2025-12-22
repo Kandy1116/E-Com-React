@@ -70,7 +70,7 @@ function App() {
   }
 
   return (
-    <Router>
+    <Router basename="/E-Com-React">
       <div className="App">
         <Nav numberOfItems={numberOfItems()} />
         <Routes>
