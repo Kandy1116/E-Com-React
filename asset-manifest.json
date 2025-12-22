@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/E-Com-React/static/css/main.537b4e49.chunk.css",
+    "main.js": "/E-Com-React/static/js/main.a0712dfc.chunk.js",
+    "main.js.map": "/E-Com-React/static/js/main.a0712dfc.chunk.js.map",
+    "runtime-main.js": "/E-Com-React/static/js/runtime-main.b904f2dd.js",
+    "runtime-main.js.map": "/E-Com-React/static/js/runtime-main.b904f2dd.js.map",
+    "static/js/2.8c340dad.chunk.js": "/E-Com-React/static/js/2.8c340dad.chunk.js",
+    "static/js/2.8c340dad.chunk.js.map": "/E-Com-React/static/js/2.8c340dad.chunk.js.map",
+    "static/js/3.b6fc6107.chunk.js": "/E-Com-React/static/js/3.b6fc6107.chunk.js",
+    "static/js/3.b6fc6107.chunk.js.map": "/E-Com-React/static/js/3.b6fc6107.chunk.js.map",
+    "index.html": "/E-Com-React/index.html",
+    "static/css/main.537b4e49.chunk.css.map": "/E-Com-React/static/css/main.537b4e49.chunk.css.map",
+    "static/js/2.8c340dad.chunk.js.LICENSE.txt": "/E-Com-React/static/js/2.8c340dad.chunk.js.LICENSE.txt",
+    "static/media/Library.70d0a6a9.svg": "/E-Com-React/static/media/Library.70d0a6a9.svg",
+    "static/media/Undraw_Books.64f45ed2.svg": "/E-Com-React/static/media/Undraw_Books.64f45ed2.svg",
+    "static/media/empty_cart.378125a8.svg": "/E-Com-React/static/media/empty_cart.378125a8.svg",
+    "static/media/index.css": "/E-Com-React/static/media/wave.42edd597.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b904f2dd.js",
+    "static/js/2.8c340dad.chunk.js",
+    "static/css/main.537b4e49.chunk.css",
+    "static/js/main.a0712dfc.chunk.js"
+  ]
+}
