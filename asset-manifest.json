@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/E-Com-React/static/css/main.537b4e49.chunk.css",
-    "main.js": "/E-Com-React/static/js/main.a0712dfc.chunk.js",
-    "main.js.map": "/E-Com-React/static/js/main.a0712dfc.chunk.js.map",
+    "main.js": "/E-Com-React/static/js/main.ff715c69.chunk.js",
+    "main.js.map": "/E-Com-React/static/js/main.ff715c69.chunk.js.map",
     "runtime-main.js": "/E-Com-React/static/js/runtime-main.b904f2dd.js",
     "runtime-main.js.map": "/E-Com-React/static/js/runtime-main.b904f2dd.js.map",
     "static/js/2.8c340dad.chunk.js": "/E-Com-React/static/js/2.8c340dad.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.b904f2dd.js",
     "static/js/2.8c340dad.chunk.js",
     "static/css/main.537b4e49.chunk.css",
-    "static/js/main.a0712dfc.chunk.js"
+    "static/js/main.ff715c69.chunk.js"
   ]
 }
