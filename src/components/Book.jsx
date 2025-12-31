@@ -5,11 +5,10 @@ import Ratings from "./ui/Ratings";
 
 const Book = ({ book }) => {
   const [img, setImg] = useState();
-
-  // When we switch routes dont set image to unmounted component
   const mountedRef = useRef(true);
 
   useEffect(() => {
+    mountedRef.current = true;
     const image = new Image();
     image.src = book.url;
     image.onload = () => {
@@ -20,7 +19,6 @@ const Book = ({ book }) => {
       }, 300);
     };
     return () => {
-      // When the component unmounts 
       mountedRef.current = false;
     };
   }, [book.url]);

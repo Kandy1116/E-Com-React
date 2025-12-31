@@ -1,0 +1,20 @@
+{
+  "React Functional Component (rfc)": {
+    "prefix": "rfc",
+    "body": [
+      "import React from 'react';",
+      "",
+      "type ${1:ComponentName}Props = {",
+      "};",
+      "",
+      "function ${1:ComponentName}(props: ${1:ComponentName}Props) {",
+      "  return (",
+      "    <div>${1:ComponentName}</div>",
+      "  );",
+      "}",
+      "",
+      "export default ${1:ComponentName};"
+    ],
+    "description": "Create a React functional component (TypeScript)"
+  }
+}

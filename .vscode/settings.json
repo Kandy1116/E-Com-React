@@ -1,0 +1,22 @@
+{
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact",
+    "javascriptreact": "javascriptreact",
+    "typescriptreact": "typescriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.syntaxProfiles": {
+    "javascript": "jsx",
+    "javascriptreact": "jsx",
+    "typescript": "tsx",
+    "typescriptreact": "tsx"
+  },
+  "editor.tabCompletion": "on",
+  "editor.snippetSuggestions": "top",
+  "emmet.showAbbreviationSuggestions": true,
+  "files.associations": {
+    "*.jsx": "javascriptreact",
+    "*.tsx": "typescriptreact"
+  }
+}
