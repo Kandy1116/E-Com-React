@@ -70,7 +70,7 @@ function App() {
   }
 
   return (
-    <Router basename="/E-Com-React">
+    <Router basename={window.location.hostname.includes("github.io") ? "/E-Com-React" : "/"}>
       <div className="App">
         <Nav numberOfItems={numberOfItems()} />
         <Routes>
